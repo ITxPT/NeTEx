@@ -31,7 +31,7 @@ The new Part 5 CEN Specification document describes the additions and changes.
   * _Updates to xml schema_:  
     * netex_netex_nm_mobilityService_version.xsd   
 
-### 2021.05.03  NewModes: GBFS compatibility AT#1 __MobilityConstraintZone__ add __ZoneRuleApplicability__ add _inside_  and _outside_.  
+### 2021.05.03  NewModes: GBFS compatibility AT#1 __MobilityConstraintZone__ add __ZoneRuleApplicability__ add _inside_  and _outside_. [#165](https://github.com/NeTEx-CEN/NeTEx/pull/165/files)  
  
  * Add _enclosed_ value to  __ParkingLayout__ enumeration
   * _Updates to xml schema_:  
@@ -72,7 +72,7 @@ __ParkingProperties__
     * NewModes-CycleSharingExample.xml
     * NewModes-CarPoolingExample.xsd
 
-### 2021.04.14  NewModes: Revise AT#8 add  _mobileAppInstallCheck_ to value to __infoLinkTypes__ enumeration.
+### 2021.04.14  NewModes: Revise AT#8 add  _mobileAppInstallCheck_ to value to __infoLinkTypes__ enumeration. [#162](https://github.com/NeTEx-CEN/NeTEx/pull/162)
   * _Updates to xml schema_:   
     * netex_utility_types.xsd
   * _Updates to xml examples_:
