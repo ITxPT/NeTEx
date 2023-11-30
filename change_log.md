@@ -78,7 +78,7 @@ __ParkingProperties__
   * _Updates to xml examples_:
     * NewModes-CycleSharingExample.xml
 
-### 2021.04.14  NewModes: Revise AT#9 Add missing enum values to __MobilityConstraintZone__. __TransportZoneUseEnumeration__:  _allUsesAllowed_ and _noPassThrough_ .
+### 2021.04.14  NewModes: Revise AT#9 Add missing enum values to __MobilityConstraintZone__. __TransportZoneUseEnumeration__:  _allUsesAllowed_ and _noPassThrough_ . [#161](https://github.com/NeTEx-CEN/NeTEx/pull/161)
   * _Updates to xml schema_: 
     * netex_nm_mobilityServiceConstraintZone_version.xsd
   * _Updates to xml examples_:
