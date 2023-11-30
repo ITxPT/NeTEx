@@ -683,42 +683,6 @@ Base version plus further minor fixes comprising##
 The Part 1, Part 2, & Part 3 Schemas include minor  corrections and enhancements since the issue of the Version 1.0 documents.
 The revised Version 1.1 documents include the changes.
 
-
-
-Version 1.20 - Base version plus  further minor fixes comprising##
-
-
-FIX -  FareClassEnumeration #100
-### 2020.07.28   FIX  Issue #100*FRAMEWORK*:Corect the substitution group on OrganisationUnit
-	* netex_framework/netex_genericFramework/netex_organisation_version.xsd
-
-FIX -  FareClassEnumeration #75
-### 2020.06.21   FIX  Issue #75*FRAMEWORK*:Remove space from end of secondClass enumeration value
-	* netex_framework/netex_reusableComponents/netex_serviceRestrictions_support.xsd
-
-FIX -  Recursive includes #73
-### 2020.06.21 PARTIAL  FIX  Issue #73*PART2*:Recursive includes: NJSK  Remove cyclic inclusion dependency
-	* netex_flexibleService Journey.xml
-
-### 2020.06.21 FIX  Issue #78 *PART2*:Journey Coupling: NJSK  __JourneyCouple__ / __MainPartRef__ should be of type  __JourneyPartRef__
-  * _Updates to xml schema_:
-	* netex_coupledJourney.xml
-
-### 2020.06.21 FIX  Issue #92 *FRAMEWORK*:LinkProjection NJSK Expose the missing __EntityInVersion__ elements on the __LinkProjection__ derivation
-  * _Updates to xml schema_:
-	* netex_projectionVersion.xml
-
-----
-## Version 1.10 - Base version plus minor fixes comprising
-  * Norway contributions,
-  * The approved 1.1 CRs 1-50
-  * Rollup of fixes and additional documentation on other fixes.
-  * Corrections to integration of NK  1.09.
-  * 51-55 CRs from Meeting Feb 2019. Also CRs from NL, EURA, UK,  Norway and SBB input.
-
-The Part 1, Part 2, & Part 3 Schemas include minor  corrections and enhancements since the issue of the Version 1.0 documents.
-The revised Version 1.1 documents include the changes.
-
 ### 2019.05.17 FIX  *PART3:FARES*: NJSK  __FarePointInPattern__  Fix case on __isFareStage__ and __isForbidden__
   * _Updates to xml schema_:
 	* netex_production.xml
