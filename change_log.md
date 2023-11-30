@@ -102,7 +102,7 @@ __ParkingProperties__
   * _Updates to xml examples_:   
     * NewModes-CarPoolingExample.xsd
    
-### 2021.01.29  Bug Issue #143 Correct data type of __GapToPlatform__. [#143](https://github.com/NeTEx-CEN/NeTEx/pull/149)
+### 2021.01.29  Bug Issue #143 Correct data type of __GapToPlatform__. [#149](https://github.com/NeTEx-CEN/NeTEx/pull/149)
   * _Updates to xml schema_:   
     * netex_equipmentVehiclePassenger_version.xsd.xsd
 
