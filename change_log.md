@@ -244,7 +244,7 @@ __ParkingProperties__
    * netex_vehicleType_version.xsd
    * netex_all_objects_part5_newModes.xsd
 
-### 2020.10.20  NewModes : Car pooling example and miscellaneous small revisions.
+### 2020.10.20  NewModes : Car pooling example and miscellaneous small revisions. [#190](https://github.com/NeTEx-CEN/NeTEx/pull/190)
  * NewModes:Add XML Example of Car Pooling Service, revise  schema to enable.
  * Frames
    * TM Support: __SalesTransactionFrame__ : Add __MediumAccessDevice__.
