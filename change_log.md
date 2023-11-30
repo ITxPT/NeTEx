@@ -9,7 +9,7 @@ The new Part 5 CEN Specification document describes the additions and changes.
            
 
 
-### 2021.09.01  NewModes: CommentAction Add __PoolOfVehicles__.
+### 2021.09.01  NewModes: CommentAction Add __PoolOfVehicles__. [#221](https://github.com/NeTEx-CEN/NeTEx/pull/221)
   * Add  __mustpickupanddropoffInSameZone_  value to __mobilityConstraintZone__ restiction values.  
   * Add __PoolOfVehicles__ to Mobility Service Zonstraint zone package. Add uniqueness constraint.
   * Add __PoolOfVehicles__to __MobilityServiceFrame__.
@@ -56,7 +56,7 @@ __ParkingProperties__
     * NewModes-CycleSharingExample.xml
     * NewModes-CarPoolingExample.xml. 
    
-### 2021.04.15  NewModes: Revise AT#8 Add __ShortName__ to __MobilityService__.
+### 2021.04.15  NewModes: Revise AT#8 Add __ShortName__ to __MobilityService__. [#164](https://github.com/NeTEx-CEN/NeTEx/pull/164/commits)
    * _Updates to xml schema_:   
      * netex_mobility_service.xsd.xsd
    
