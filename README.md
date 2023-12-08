@@ -84,4 +84,4 @@ The schema is systematically divided into small modular files. Generally, for ea
 | 1.2.3          |               | Bug fixes (when necessary)                     | [Release Notes](https://github.com/NeTEx-CEN/NeTEx/blob/next/CHANGELOG.md)       |
 | 1.3.0          | Dec. 2023     | Upcoming release   ⏳                            | N/A                                                                                             |
 ## Full Version History 📚
-The comprehensive versions history is available in [change_log.txt](https://github.com/ITxPT/NeTEx/blob/New-NeTEx-branch/change_log.md)
+The comprehensive versions history is available in [change_log.md](https://github.com/ITxPT/NeTEx/blob/New-NeTEx-branch/change_log.md)
